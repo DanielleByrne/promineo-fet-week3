@@ -1,0 +1,14 @@
+#kovi{
+ max-width: 100%;
+ max-height: auto
+ ;
+}
+
+.form{
+    max-width: 100%;
+    max-height: auto;
+}
+
+.form-length{
+    max-width: 40%;
+}
